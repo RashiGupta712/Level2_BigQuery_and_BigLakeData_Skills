@@ -1,0 +1,5 @@
+gcloud services enable documentai.googleapis.com
+
+*****************************************************************************
+
+Search Document AI > Explore Processors > in Invoice Parser click Create Processor > Name lab-invoice-parser > Create
