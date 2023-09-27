@@ -1,0 +1,5 @@
+Login on Looker Studio
+
+Blank Report > Country India > Company CloudHustler > continue > yes to all > Continue
+
+BigQuery > Authorize > Shared Project > GCP ID > name data-to-insights > Dataset ecommerce > sales_report > ADD > Add to report
