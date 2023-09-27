@@ -1,0 +1,5 @@
+gcloud services enable documentai.googleapis.com
+
+*************************************************************************
+
+Search Document AI > Explore Processors > in Form Parser click Create Processor > Name lab-form-parser > Create
